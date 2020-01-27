@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eoteeghei.my-net-site.online/sitemap.xml
